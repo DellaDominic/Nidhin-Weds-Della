@@ -2,9 +2,9 @@ import React from 'react'
 import gallery1 from '../assets/images/fixation1.jpg'
 import gallery2 from '../assets/images/gal2.jpg'
 import gallery3 from '../assets/images/niddel.jpg'
-import gallery4 from '../assets/images/seeyou1.jpg'
-import gallery5 from '../assets/images/gal1.jpg'
-import gallery6 from '../assets/images/niddel4.jpg'
+// import gallery4 from '../assets/images/seeyou1.jpg'
+// import gallery5 from '../assets/images/gal1.jpg'
+// import gallery6 from '../assets/images/niddel4.jpg'
 function Gallery () {
   return (
     <div id='gallery' className='section-padding'>
