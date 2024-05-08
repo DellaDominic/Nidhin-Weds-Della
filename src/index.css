@@ -1607,13 +1607,13 @@ body.slide .oliven-nav-toggle {
     color: #fff;
 }
 
-.gallery-box:hover .gallery-detail {
+.gallery-box .gallery-detail {
     top: 50%;
     transform: translate(0, -50%);
     opacity: 1;
 }
 
-.gallery-box:hover .gallery-img:after {
+.gallery-box .gallery-img:after {
     background: rgba(0, 0, 0, 0.4);
 }
 

@@ -69,54 +69,36 @@ function Gallery () {
               </div>
             {/* </a> */}
           </div>
-          <div className='col-md-4 gallery-item ceremony'>
-            {/* <a href='/' className='img-zoom'> */}
+          {/* <div className='col-md-4 gallery-item ceremony'>
               <div className='gallery-box'>
-                {/* <div className='gallery-img'> */}
                   {' '}
                   <img
                     src={gallery4}
                     className='img-fluid mx-auto d-block'
                     alt=''
                   />{' '}
-                {/* </div>
-                <div className='gallery-detail'>
-                </div> */}
               </div>
-            {/* </a> */}
           </div>
           <div className='col-md-4 gallery-item ceremony'>
-            {/* <a href='/' className='img-zoom'> */}
               <div className='gallery-box'>
-                {/* <div className='gallery-img'> */}
                   {' '}
                   <img
                     src={gallery5}
                     className='img-fluid mx-auto d-block'
                     alt=''
                   />{' '}
-                {/* </div>
-                <div className='gallery-detail'>
-                </div> */}
               </div>
-            {/* </a> */}
           </div>
           <div className='col-md-4 gallery-item ceremony'>
-            {/* <a href='/' className='img-zoom'> */}
               <div className='gallery-box'>
-                {/* <div className='gallery-img'> */}
                   {' '}
                   <img
                     src={gallery6}
                     className='img-fluid mx-auto d-block'
                     alt=''
                   />{' '}
-                {/* </div>
-                <div className='gallery-detail'>
-                </div> */}
               </div>
-            {/* </a> */}
-          </div>
+          </div> */}
           {/* <div className='col-md-4 gallery-item party'>
             <a href='/' className='img-zoom'>
               <div className='gallery-box'>
