@@ -92,7 +92,7 @@ Pulickal House, Angamaly.
           >
             <h3 className="oliven-couple-title">We are getting Married!</h3>
             <h4 className="oliven-couple-subtitle">
-              26 May 2023 — St.George Basilica Church, Angamaly
+              26 May 2024 — St.George Basilica Church, Angamaly
             </h4>
           </div>
         </div>
