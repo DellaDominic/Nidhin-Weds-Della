@@ -14,7 +14,7 @@ function Footer () {
                 </span>
               </a>
             </h2>
-            <p className='copyright'>26 May 2024 — St.George Basilica Church, Angamaly</p>
+            <p className='copyright'>Made with <span style={{color: "#e25555"}}>&#9829;</span> by Della for us.</ p>
           </div>
         </div>
       </div>

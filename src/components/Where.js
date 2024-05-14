@@ -34,7 +34,7 @@ function Where () {
                 <i className='ti-location-pin'></i> Little Flower Church, Elamkulam, Kochi. <br /> Reception to follow at Parish hall.
               </p>
               <p>
-                <i className='ti-time'></i> <span>11:30 am</span>
+                <i className='ti-time'></i> <span>23 May 2024, 11:30 am</span>
               </p>
             </div>
             </a>
@@ -59,7 +59,7 @@ function Where () {
                 <i className='ti-location-pin'></i> St.George Basilica Church, Angamaly. <br /> Reception to follow at Parish hall.
               </p>
               <p>
-                <i className='ti-time'></i> <span>11:30 am</span>
+                <i className='ti-time'></i> <span>26 May 2024, 11:30 am</span>
               </p>
             </div>
             </a>
